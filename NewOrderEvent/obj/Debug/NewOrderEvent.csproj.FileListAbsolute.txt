@@ -1,0 +1,7 @@
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\bin\Debug\NewOrderEvent.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\bin\Debug\NewOrderEvent.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\bin\Debug\NewOrderEvent.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\obj\Debug\NewOrderEvent.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\obj\Debug\NewOrderEvent.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\obj\Debug\NewOrderEvent.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewOrderEvent\obj\Debug\NewOrderEvent.pdb
