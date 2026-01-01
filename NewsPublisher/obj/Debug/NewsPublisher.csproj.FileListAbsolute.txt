@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\bin\Debug\NewsPublisher.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\bin\Debug\NewsPublisher.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\bin\Debug\NewsPublisher.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\obj\Debug\NewsPublisher.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\obj\Debug\NewsPublisher.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\obj\Debug\NewsPublisher.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\obj\Debug\NewsPublisher.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Events\NewsPublisher\obj\Debug\NewsPublisher.exe.config
