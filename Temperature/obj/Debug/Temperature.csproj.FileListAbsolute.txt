@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\bin\Debug\Temperature.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\bin\Debug\Temperature.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\obj\Debug\Temperature.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\obj\Debug\Temperature.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\Temperature\obj\Debug\Temperature.exe.config

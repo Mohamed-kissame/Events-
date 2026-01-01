@@ -1,0 +1,12 @@
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\bin\Debug\EventsArgs Exercice.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\bin\Debug\EventsArgs Exercice.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\bin\Debug\EventsArgs Exercice.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs_Exercice.Form1.resources
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs_Exercice.MyOrder.resources
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs_Exercice.Properties.Resources.resources
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.csproj.GenerateResource.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.exe
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.pdb
+C:\Users\mkiss\OneDrive\Bureau\Courses\Cours-20\EventsArgs Exercice\obj\Debug\EventsArgs Exercice.exe.config
